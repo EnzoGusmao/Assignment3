@@ -1,4 +1,4 @@
-public class Assign3Q4_3 {
+public class Assign3Q4_4 {
     public static void main(String[] args) {
         int lines = 5;
         
